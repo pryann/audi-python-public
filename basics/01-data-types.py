@@ -20,3 +20,6 @@ print(type(str(10)))  # '10', <class 'str'>
 # bool - logika típus
 print('Logikai értékek: ', True, type(False))
 print(None, type(None))
+
+print('A' * 10)
+print('A' + 'B')

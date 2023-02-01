@@ -37,3 +37,13 @@ print(my_number_2)
 for i in range(1, len(my_number_2)):
     my_number_2[i] = my_number_2[i] * 2
 print(my_number_2)
+
+# append - hozzáadás a végéhez
+my_number_2.append(1000)
+print(my_number_2)
+# pop- utolsó elem törlése
+my_number_2.pop()
+print(my_number_2)
+
+my_number_2.remove('Egy')
+print(my_number_2)
