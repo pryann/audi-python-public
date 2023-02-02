@@ -32,3 +32,6 @@ while True:
     #     ha eltalta írd ki, hogy eltaláltad
     #     ha kisebb, mint amire gondoltam, írd ki, hogy nagyobbra gondoltam
     #     ha nagyobb, mint amire gondoltam, írd ki, hogy kisebbre gondoltam
+
+my_tuple_2 = (1, 2, 3)
+my_tuple_2 = (4, 5, 6)
