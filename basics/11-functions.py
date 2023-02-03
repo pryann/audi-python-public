@@ -96,7 +96,6 @@ def is_contain(list_p=[1, 2, 3], value=1):
             return True
     return False
 
-
     # print(get_min_max([1, 2, 3, 4, 5, 6]))
 print(count_item([1, 2, 3, 4, 1, 2, 4, 3, 2, 3, 4, 3, 2], 2))
 print(is_contain(value=10, list_p=[1, 2, 3]))
